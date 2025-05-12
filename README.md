@@ -8,7 +8,7 @@ A Software Engineer and Blockchain Builder passionate about decentralized system
 
 - Final-year Software Engineering student at the University of Calgary  
 - Passionate about decentralized identity, secure messaging, and blockchain infrastructure  
-- Enjoy building tools that empower communities and simplify complexity  
+- Enjoy building tools that empower communities  
 - Always exploring new ways to challenge myself and grow
 
 ---
