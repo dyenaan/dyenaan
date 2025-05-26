@@ -6,7 +6,7 @@ A Software Engineer and Blockchain Builder exploring decentralized systems, priv
 
 ## 📚 About Me
 
-- Final-year Software Engineering student at the University of Calgary  
+- Software Engineering student at the University of Calgary  
 - Exploring decentralized identity, secure messaging, and blockchain infrastructure  
 - Enjoy building tools that empower communities  
 - Always exploring new ways to challenge myself and grow
