@@ -1,19 +1,18 @@
-# 👋 Hey, I'm Dyenaan
+# Hey, I'm Dyenaan
 
 A Software Engineer and Blockchain Builder exploring decentralized systems, privacy, and human-centered technology.  
 
 ---
 
-## 📚 About Me
+## About Me
 
 - Software Engineering student at the University of Calgary  
 - Exploring decentralized identity, secure messaging, and blockchain infrastructure  
-- Enjoy building tools that empower communities  
-- Always exploring new ways to challenge myself and grow
+- Always looking for new ways to challenge myself
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **TechOps Intern** @BNB Chain – 2025  
 - **Engineering Intern** @ATCO Energy Systems – 2023–2024  
