@@ -1,6 +1,6 @@
 # I'm Dyenaan
 
-Software Engineer & Blockchain Builder. Exploring blockchain infrastructure, payment systems, and anything I find interesting.
+A Software Engineer & Blockchain Builder. Exploring blockchain infrastructure, payment systems, and anything I find interesting.
 
 ---
 
