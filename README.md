@@ -1,14 +1,14 @@
-# Hey, I'm Dyenaan
+# I'm Dyenaan
 
-A Software Engineer and Blockchain Builder exploring decentralized systems, privacy, and human-centered technology.  
+Software Engineer & Blockchain Builder. Exploring blockchain infrastructure, payment systems, and anything I find interesting.
 
 ---
 
 ## About Me
 
-- Software Engineering student at the University of Calgary  
-- Exploring decentralized identity, secure messaging, and blockchain infrastructure  
-- Always looking for new ways to challenge myself
+- Software Engineering grad from the University of Calgary  
+- Building and experimenting with blockchain infrastructure and payment systems.
+- Always shipping, always learning.
 
 ---
 
