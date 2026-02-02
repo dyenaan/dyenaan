@@ -14,9 +14,9 @@ A Software Engineer & Blockchain Builder. Exploring blockchain infrastructure, p
 
 ## Experience
 
+- **Junior Software Developer** @Neo Financial  
 - **TechOps Intern** @BNB Chain – 2025  
 - **Engineering Intern** @ATCO Energy Systems – 2023–2024  
-- **Core Member** @UCalgary Blockchain Society
 
 ---
 ## Languages & Technologies
